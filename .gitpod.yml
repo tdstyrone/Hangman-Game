@@ -1,2 +1,2 @@
 tasks:
-  - command:python3 hangmangame.py
+  - command: python3 hangmangame.py
